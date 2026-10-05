@@ -447,3 +447,4 @@ Use Rust 1.91.1 or newer. On a storage-constrained machine, `python3 scripts/car
 - [Repository conventions](CLAUDE.md) — development practices and workspace structure.
 
 [MIT license declared in package metadata](Cargo.toml). Built for people who want a companion they can run, understand and improve.
+test
